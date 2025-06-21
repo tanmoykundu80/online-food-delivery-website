@@ -72,7 +72,7 @@ export class CartComponent implements OnInit {
 
   payWithRazorpay(): void {
     const options = {
-      key: 'Your Razorpay Key',
+      key: 'Your Razorpay Key', //Enter Your Razorpay API Key ID here.
       amount: this.total * 100,
       currency: 'INR',
       name: 'Yammiee',
