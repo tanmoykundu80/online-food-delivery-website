@@ -1,0 +1,317 @@
+[
+  {
+    "ContainingType": "Yammiee.Controllers.AdminController",
+    "Method": "AdminLogin",
+    "RelativePath": "api/Admin/AdminLogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Obj",
+        "Type": "Yammiee.Models.Admin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.AdminController",
+    "Method": "AdminReg",
+    "RelativePath": "api/Admin/AdminReg",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Obj",
+        "Type": "Yammiee.Models.Admin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.AdminController",
+    "Method": "Delete",
+    "RelativePath": "api/Admin/Delete/{email}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.AdminController",
+    "Method": "ShowAdmins",
+    "RelativePath": "api/Admin/ShowAdmins",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.CartController",
+    "Method": "GetCartItems",
+    "RelativePath": "api/Cart/GetCartItems/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.CartController",
+    "Method": "SaveCartItems",
+    "RelativePath": "api/Cart/SaveCartItems",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "items",
+        "Type": "System.Collections.Generic.List\u00601[[CartItem, Yammiee, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.FoodItemController",
+    "Method": "AddFoodItem",
+    "RelativePath": "api/FoodItem/AddFoodItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Category",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Price",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "FoodImageName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "imgfile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.FoodItemController",
+    "Method": "ShowAllFood",
+    "RelativePath": "api/FoodItem/ShowAllFood",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.OrderController",
+    "Method": "All",
+    "RelativePath": "api/Order/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.OrderController",
+    "Method": "DeleteOrder",
+    "RelativePath": "api/Order/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.OrderController",
+    "Method": "GetByUser",
+    "RelativePath": "api/Order/getbyuser/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.OrderController",
+    "Method": "Save",
+    "RelativePath": "api/Order/save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Yammiee.Controllers.OrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.OrderController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/Order/update-status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Yammiee.Controllers.StatusUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.UserController",
+    "Method": "DeleteUserByEmail",
+    "RelativePath": "api/User/DeleteUserByEmail",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.UserController",
+    "Method": "GetUsersPaged",
+    "RelativePath": "api/User/GetUsersPaged",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.UserController",
+    "Method": "ShowUsers",
+    "RelativePath": "api/User/ShowUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.UserController",
+    "Method": "UserLogin",
+    "RelativePath": "api/User/UserLogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Obj",
+        "Type": "Yammiee.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.UserController",
+    "Method": "UserReg",
+    "RelativePath": "api/User/UserReg",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Obj",
+        "Type": "Yammiee.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Yammiee.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Yammiee.WeatherForecast, Yammiee, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

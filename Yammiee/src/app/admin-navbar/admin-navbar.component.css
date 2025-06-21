@@ -1,0 +1,23 @@
+.admin-navbar {
+  background-color: #004cff;
+  padding: 10px;
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.admin-navbar-content {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+button {
+  background: white;
+  color: #0033ff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}

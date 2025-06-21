@@ -1,0 +1,23 @@
+<div class="category-buttons">
+  <button class="category" [class.active]="selectedCategory === 'All'" (click)="filterByCategory('All')">All</button>
+  <button class="category" *ngFor="let cat of categories" [class.active]="selectedCategory === cat" (click)="filterByCategory(cat)">
+    {{ cat }}
+  </button>
+</div>
+
+<div class="menu-catalogue">
+  <div class="food-card" *ngFor="let food of filteredFoodItems">
+    <img [src]="food.previewUrl" alt="{{ food.food_Name }}" class="food-image" />
+    <h3>{{ food.food_Name }}</h3>
+    <!-- <p class="category">{{ food.category }}</p> -->
+    <p class="price">₹{{ food.price }}</p>
+
+    <div class="quantity-controls">
+      <button (click)="decreaseQuantity(food)">−</button>
+      <span>{{ food.quantity || 1 }}</span>
+      <button (click)="increaseQuantity(food)">+</button>
+    </div>
+
+    <button class="order-btn" (click)="addToCart(food)">Order</button>
+  </div>
+</div>

@@ -1,0 +1,23 @@
+<div class="contact-wrapper">
+    <div class="contact-container">
+      <h2>Get in Touch</h2>
+      <form (submit)="onSubmit($event)">
+        <input type="text" name="name" placeholder="Your Name" required />
+        <input type="email" name="email" placeholder="Your Email" required />
+  
+        <select name="subject" required>
+          <option value="" disabled selected>Select Subject</option>
+          <option value="General Inquiry">General Inquiry</option>
+          <option value="Payment Issue">Payment Issue</option>
+          <option value="Food Related Issue">Food Related Issue</option>
+          <option value="Complaint">Complaint</option>
+        </select>
+  
+        <input type="text" name="location" placeholder="From where are you contacting?" required />
+        <textarea name="message" placeholder="Your Message" required></textarea>
+  
+        <button type="submit">Send Message</button>
+      </form>
+    </div>
+  </div>
+  

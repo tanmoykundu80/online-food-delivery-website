@@ -1,0 +1,117 @@
+/* Navbar styles */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(90deg, #ff9100, #ffcc80);
+  padding: 1rem 2rem;
+  font-family: 'Roboto', sans-serif;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Logo styling */
+.logo-link {
+  text-decoration: none;
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: 900;
+  background: linear-gradient(90deg, #fffde7, #fff3e0);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.logo:hover {
+  transform: scale(1.05);
+}
+
+/* Navigation links */
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li a {
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  text-decoration: none;
+  position: relative;
+  transition: color 0.3s ease;
+}
+
+.nav-links li a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 0;
+  height: 2px;
+  background-color: white;
+  transition: width 0.3s ease;
+}
+
+.nav-links li a:hover::after {
+  width: 100%;
+}
+
+.nav-links li a.active {
+  color: black !important;
+}
+
+.nav-links li a.active::after {
+  background-color: black;
+  width: 100%;
+}
+
+/* Login & Logout button (shared style) */
+.login-button,
+.logout-button {
+  background-color: white;
+  color: #ff6f00;
+  border: 2px solid #ff6f00;
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.login-button:hover,
+.logout-button:hover {
+  background-color: #ff6f00;
+  color: white;
+}
+
+/* Profile display */
+.profile-name {
+  font-weight: bold;
+  color: white;
+  font-size: 1rem;
+}
+
+/* Profile container */
+.user-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* Cart badge */
+.cart-badge {
+  background: red;
+  color: white;
+  padding: 0 6px;
+  border-radius: 50%;
+  font-size: 0.8rem;
+  margin-left: 5px;
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|c:\\users\\tanmo\\source\\repos\\yammiee\\yammiee\\models\\datamanager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|solutionrelative:yammiee\\models\\datamanager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|c:\\users\\tanmo\\source\\repos\\yammiee\\yammiee\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|solutionrelative:yammiee\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|c:\\users\\tanmo\\source\\repos\\yammiee\\yammiee\\models\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|solutionrelative:yammiee\\models\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|c:\\users\\tanmo\\source\\repos\\yammiee\\yammiee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|solutionrelative:yammiee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|c:\\users\\tanmo\\source\\repos\\yammiee\\yammiee\\models\\datamanager\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|solutionrelative:yammiee\\models\\datamanager\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|c:\\users\\tanmo\\source\\repos\\yammiee\\yammiee\\models\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|solutionrelative:yammiee\\models\\repository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|c:\\users\\tanmo\\source\\repos\\yammiee\\yammiee\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|solutionrelative:yammiee\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 160,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Models\\Datamanager\\UserManager.cs",
+              "RelativeDocumentMoniker": "Yammiee\\Models\\Datamanager\\UserManager.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Models\\Datamanager\\UserManager.cs",
+              "RelativeToolTip": "Yammiee\\Models\\Datamanager\\UserManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:19:17.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Models\\ProjectContext.cs",
+              "RelativeDocumentMoniker": "Yammiee\\Models\\ProjectContext.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Models\\ProjectContext.cs",
+              "RelativeToolTip": "Yammiee\\Models\\ProjectContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:09:05.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Yammiee\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Yammiee\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:01:59.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Models\\Datamanager\\AdminManager.cs",
+              "RelativeDocumentMoniker": "Yammiee\\Models\\Datamanager\\AdminManager.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Models\\Datamanager\\AdminManager.cs",
+              "RelativeToolTip": "Yammiee\\Models\\Datamanager\\AdminManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:00:54.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Yammiee\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Models\\Admin.cs",
+              "RelativeToolTip": "Yammiee\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:00:52.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Idatarepository.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Models\\Repository\\Idatarepository.cs",
+              "RelativeDocumentMoniker": "Yammiee\\Models\\Repository\\Idatarepository.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Models\\Repository\\Idatarepository.cs",
+              "RelativeToolTip": "Yammiee\\Models\\Repository\\Idatarepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:34:53.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Program.cs",
+              "RelativeDocumentMoniker": "Yammiee\\Program.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Program.cs",
+              "RelativeToolTip": "Yammiee\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:09:56.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

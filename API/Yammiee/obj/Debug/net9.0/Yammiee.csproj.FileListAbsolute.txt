@@ -1,0 +1,325 @@
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\appsettings.Development.json
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\appsettings.json
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.staticwebassets.runtime.json
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.staticwebassets.endpoints.json
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.exe
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.deps.json
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.runtimeconfig.json
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.pdb
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Azure.Core.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Azure.Identity.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Humanizer.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.ClientModel.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.CodeDom.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Yammiee Backend\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.csproj.AssemblyReference.cache
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.AssemblyInfoInputs.cache
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.AssemblyInfo.cs
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.csproj.CoreCompileInputs.cache
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.MvcApplicationPartsAssemblyInfo.cs
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.MvcApplicationPartsAssemblyInfo.cache
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\scopedcss\bundle\Yammiee.styles.css
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets.build.json
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets.development.json
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.csproj.Up2Date
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.dll
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\refint\Yammiee.dll
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.pdb
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.genruntimeconfig.cache
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\ref\Yammiee.dll
+D:\Yammiee Backend\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\appsettings.json
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.staticwebassets.endpoints.json
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.exe
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.deps.json
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.runtimeconfig.json
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Yammiee.pdb
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Humanizer.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.csproj.AssemblyReference.cache
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.AssemblyInfoInputs.cache
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.AssemblyInfo.cs
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.csproj.CoreCompileInputs.cache
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\scopedcss\bundle\Yammiee.styles.css
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets\msbuild.Yammiee.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets\msbuild.Yammiee.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets\msbuild.build.Yammiee.props
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Yammiee.props
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Yammiee.props
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.csproj.Up2Date
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\refint\Yammiee.dll
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.pdb
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\Yammiee.genruntimeconfig.cache
+C:\Users\tanmo\source\repos\Yammiee\Yammiee\obj\Debug\net9.0\ref\Yammiee.dll

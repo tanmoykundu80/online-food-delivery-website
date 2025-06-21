@@ -1,0 +1,19 @@
+<div class="auth-container">
+  <h2>{{ isLoginMode ? 'Admin Login' : 'Admin Signup' }}</h2>
+
+  <form [formGroup]="authForm" (ngSubmit)="onSubmit()">
+    <input formControlName="email" type="email" placeholder="Email" required />
+    <input formControlName="password" type="password" placeholder="Password" required />
+    <input *ngIf="!isLoginMode" formControlName="name" type="text" placeholder="Name (optional)" />
+    
+    <button type="submit">{{ isLoginMode ? 'Login' : 'Signup' }}</button>
+  </form>
+
+  <div class="toggle-text">
+    <span (click)="toggleMode()">
+      {{ isLoginMode ? 'Create new account' : 'Already have an account? Login' }}
+    </span>
+  </div>
+
+  <p class="error" *ngIf="error">{{ error }}</p>
+</div>

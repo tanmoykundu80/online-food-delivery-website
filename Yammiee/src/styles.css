@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  position: relative;
+  background: url('https://images.unsplash.com/photo-1543353071-10c8ba85a904?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D') no-repeat center center fixed;
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+/* Dark overlay */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* Adjust opacity here */
+  z-index: -1;
+}

@@ -1,0 +1,113 @@
+.order-history-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  background: #f9f9f9;
+  border-radius: 20px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.order-history-container h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #2c3e50;
+  text-align: center;
+}
+
+.order-history-container button {
+  display: block;
+  margin: 0 auto 20px;
+  padding: 10px 20px;
+  background-color: #3498db;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.order-history-container button:hover {
+  background-color: #2980b9;
+}
+
+.no-orders {
+  text-align: center;
+  font-style: italic;
+  color: #7f8c8d;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.order-card {
+  background-color: white;
+  border-left: 5px solid #3498db;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease;
+}
+
+.order-card:hover {
+  transform: translateY(-3px);
+}
+
+.order-card p {
+  margin: 8px 0;
+  color: #34495e;
+  font-size: 16px;
+}
+
+.order-card ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 10px;
+}
+
+.order-card li {
+  background-color: #ecf0f1;
+  margin: 6px 0;
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+/* Status Styling */
+span.pending {
+  color: #f39c12;
+  font-weight: bold;
+}
+span.accepted {
+  color: #27ae60;
+  font-weight: bold;
+}
+span.delivered {
+  color: #2ecc71;
+  font-weight: bold;
+}
+span.cancelled {
+  color: #e74c3c;
+  font-weight: bold;
+}
+
+.order-card {
+  background-color: white;
+  border-left: 5px solid #3498db;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+
+  /* Enhanced box shadow */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1), 
+              0 2px 6px rgba(0, 0, 0, 0.06);
+
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.order-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.15), 
+              0 3px 8px rgba(0, 0, 0, 0.08);
+}

@@ -1,0 +1,55 @@
+<div class="home-container">
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Welcome to Yammiee</h1>
+    <p>Delicious meals delivered to your door. Discover recipes you’ll fall in love with!</p>
+  </section>
+
+  <!-- Featured Recipes -->
+  <section class="recipes">
+    <h2>Popular Dishes</h2>
+    <div class="recipe-grid">
+
+      <div class="recipe-card" *ngFor="let recipe of recipes">
+        <img [src]="recipe.image" [alt]="recipe.title" />
+        <h3>{{ recipe.title }}</h3>
+        <p>{{ recipe.description }}</p>
+
+        <button *ngIf="recipe.title === 'Biriyani'" (click)="goToBiriyaniBlog(recipe.id)">
+          Checkout
+        </button>
+        <button *ngIf="recipe.title === 'Chinese'" (click)="goToChineseBlog(recipe.id)">
+          Checkout
+        </button>
+        <button *ngIf="recipe.title === 'Bengali Food'" (click)="goToBengaliBlog(recipe.id)">
+          Checkout
+        </button>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Customer Reviews -->
+  <section class="reviews">
+    <h2>What Our Customers Say</h2>
+    <div class="review-grid">
+
+      <div class="review-card" *ngFor="let review of reviews">
+        <p>“{{ review.message }}”</p>
+        <strong>- {{ review.name }}</strong>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Newsletter -->
+  <section class="newsletter">
+    <h2>Subscribe to our Newsletter</h2>
+    <form (submit)="subscribe($event)">
+      <input type="email" name="email" placeholder="Enter your email" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+
+</div>

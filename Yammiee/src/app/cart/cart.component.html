@@ -1,0 +1,49 @@
+<div class="page-wrapper">
+  <div class="cart-container">
+    <div class="cart-list" *ngIf="cartItems.length > 0; else emptyCart">
+
+      <h2 style="text-align: center; color: #ff6f00; margin-bottom: 1rem;">Your Cart</h2>
+
+      <div *ngFor="let item of cartItems; let i = index" class="cart-item">
+        <div class="details">
+          <p class="food-name">{{ item.name }}</p>
+          <p>Price: ₹{{ item.price }}</p>
+        </div>
+
+        <div class="quantity-controls">
+          <button (click)="decreaseQuantity(i)">−</button>
+          <span>{{ item.quantity }}</span>
+          <button (click)="increaseQuantity(i)">+</button>
+        </div>
+
+        <p style="font-weight: 600;">₹{{ item.price * item.quantity }}</p>
+      </div>
+
+      <div class="total">
+        <strong>Total: ₹{{ total }}</strong>
+      </div>
+
+      <!-- Address Input Form -->
+      <div class="address-form" *ngIf="showAddressForm">
+        <h3>Enter Delivery Address</h3>
+        <textarea [(ngModel)]="address" placeholder="Your full address"></textarea>
+        <div class="address-buttons">
+          <button (click)="confirmAddressAndPay()">Confirm & Pay</button>
+          <button (click)="showAddressForm = false">Cancel</button>
+        </div>
+      </div>
+
+      <!-- Payment Button -->
+      <button class="pay-btn" (click)="handlePayNow()" *ngIf="!showAddressForm">
+        Pay Now
+      </button>
+    </div>
+
+    <!-- Empty Cart Template -->
+    <ng-template #emptyCart>
+      <div style="text-align: center; font-size: 1.2rem; color: #888;">
+        <p>Your cart is empty.</p>
+      </div>
+    </ng-template>
+  </div>
+</div>

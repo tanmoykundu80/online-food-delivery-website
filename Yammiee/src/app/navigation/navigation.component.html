@@ -1,0 +1,27 @@
+<nav class="navbar">
+  <div class="left-section">
+    <a routerLink="/" class="logo-link">
+      <span class="logo">Yammiee</span>
+    </a>
+  </div>
+
+  <ul class="nav-links">
+    <li><a routerLink="/" routerLinkActive="active">Home</a></li>
+    <li><a routerLink="/menu" routerLinkActive="active">Menu</a></li>
+    <li><a routerLink="/cart" routerLinkActive="active">Cart</a></li>
+    <li *ngIf="isLoggedIn"><a routerLink="/orders" routerLinkActive="active">Orders</a></li>
+    <li><a routerLink="/about" routerLinkActive="active">About</a></li>
+    <li><a routerLink="/admin" routerLinkActive="active">Admin</a></li>
+  </ul>
+
+  <!-- Show Profile/Logout if logged in -->
+  <div class="user-controls" *ngIf="isLoggedIn; else loginButton">
+    <div class="profile-name">{{ userName }}</div>
+    <button class="logout-button" (click)="logout()">Logout</button>
+  </div>
+
+  <!-- Show login button if not logged in -->
+  <ng-template #loginButton>
+    <button class="login-button" routerLink="/login">Login</button>
+  </ng-template>
+</nav>

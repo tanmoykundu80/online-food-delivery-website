@@ -1,0 +1,24 @@
+<div class="order-history-container">
+  <h2>Your Orders</h2><button (click)="reloadOrders()">🔄 Refresh Orders</button>
+
+
+  <div *ngIf="isLoading">Loading your orders...</div>
+
+  <div *ngIf="!isLoading && !hasOrders" class="no-orders">
+    You haven't placed any orders yet.
+  </div>
+
+  <div *ngFor="let order of orders" class="order-card">
+    <p><strong>Order Date:</strong> {{ order.date | date:'short' }}</p>
+    <p><strong>Delivery Address:</strong> {{ order.address }}</p>
+    <p><strong>Status:</strong> <span [ngClass]="order.status.toLowerCase()">{{ order.status }}</span></p>
+    <p><strong>Total Items:</strong> {{ order.items?.length || 0 }}</p>
+
+    <ul>
+      <li *ngFor="let item of order.items">
+        {{ item.name }} - Qty: {{ item.quantity }} - ₹{{ item.price }}
+      </li>
+    </ul>
+  </div>
+  
+</div>

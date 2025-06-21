@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|c:\\users\\tanmo\\source\\repos\\yammiee\\yammiee\\yammiee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|solutionrelative:yammiee\\yammiee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|c:\\users\\tanmo\\source\\repos\\yammiee\\yammiee\\models\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|solutionrelative:yammiee\\models\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|c:\\users\\tanmo\\source\\repos\\yammiee\\yammiee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632A9FD9-5D55-432C-A06B-8A4F6AFE7497}|Yammiee\\Yammiee.csproj|solutionrelative:yammiee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 160,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Yammiee",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Yammiee.csproj",
+              "RelativeDocumentMoniker": "Yammiee\\Yammiee.csproj",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Yammiee.csproj",
+              "RelativeToolTip": "Yammiee\\Yammiee.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T09:57:34.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Program.cs",
+              "RelativeDocumentMoniker": "Yammiee\\Program.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Program.cs",
+              "RelativeToolTip": "Yammiee\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:09:56.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Models\\ProjectContext.cs",
+              "RelativeDocumentMoniker": "Yammiee\\Models\\ProjectContext.cs",
+              "ToolTip": "C:\\Users\\tanmo\\source\\repos\\Yammiee\\Yammiee\\Models\\ProjectContext.cs",
+              "RelativeToolTip": "Yammiee\\Models\\ProjectContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:14:24.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

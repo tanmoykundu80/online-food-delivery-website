@@ -1,0 +1,60 @@
+.contact-wrapper {
+    background-image: url('https://codularity.in/wp-content/uploads/2025/04/bg.jpg');
+    background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* Align to left */
+  padding-left: 5%; /* Add space from the left edge */
+}
+  
+  
+.contact-container {
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 350px;
+}
+  
+  form input,
+  form textarea,
+  form select {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+    background-color: #f9f9f9;
+  }
+  
+  form button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background-color: #6c63ff;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  form button:hover {
+    background-color: #4e4acb;
+  }
+
+  form input,
+form select {
+  font-size: 14px;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  width: 100%;
+  min-width: 100px;
+}

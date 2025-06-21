@@ -1,0 +1,168 @@
+<app-admin-navbar></app-admin-navbar>
+
+<div *ngIf="isAdminLoggedIn()" class="admin-navbar">
+  <span>Welcome Admin</span>
+  <button (click)="logout()">Logout</button>
+</div>
+
+<!-- ✅ Tab Navigation -->
+<div class="tab-buttons">
+  <button (click)="activeTab = 'users'" [class.active]="activeTab === 'users'">Users</button>
+  <button (click)="activeTab = 'admins'" [class.active]="activeTab === 'admins'">Admins</button>
+  <button (click)="activeTab = 'food'" [class.active]="activeTab === 'food'">Food Items</button>
+  <button (click)="activeTab = 'orders'" [class.active]="activeTab === 'orders'">Orders</button>
+</div>
+
+<!-- ✅ USERS TAB -->
+<div *ngIf="activeTab === 'users'">
+  <h2>Registered Users</h2>
+
+  <input
+    type="text"
+    [(ngModel)]="userSearch"
+    placeholder="Search users by email or name"
+    class="search-input"
+    name="userSearch"
+  />
+
+  <table class="user-table">
+    <thead>
+      <tr>
+        <th>Sr. No.</th>
+        <th>Email Address</th>
+        <th>Full Name</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of filteredUsers(); let i = index">
+        <td>{{ (currentPage - 1) * pageSize + i + 1 }}</td>
+        <td>{{ user.email }}</td>
+        <td>{{ user.name || 'No Name' }}</td>
+        <td><button (click)="deleteUser(user.email)">Delete</button></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="pagination">
+    <button *ngFor="let page of totalPages"
+            (click)="onPageChange(page)"
+            [class.active]="page === currentPage">
+      {{ page }}
+    </button>
+  </div>
+</div>
+
+
+<!-- ✅ ADMINS TAB -->
+<div *ngIf="activeTab === 'admins'">
+  <h2>Admin List</h2>
+  <table class="user-table">
+    <thead>
+      <tr>
+        <th>Sr. No.</th>
+        <th>Email</th>
+        <th>Name</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let admin of admins; let i = index">
+        <td>{{ i + 1 }}</td>
+        <td>{{ admin.email }}</td>
+        <td>{{ admin.name || 'No Name' }}</td>
+        <td><button (click)="deleteAdmin(admin.email)">Delete</button></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ✅ FOOD TAB -->
+<div *ngIf="activeTab === 'food'">
+  <h2>Add Food Item</h2>
+  <form (ngSubmit)="onAddFood()" #foodForm="ngForm" class="food-form">
+    <label>Food Name:</label>
+    <input type="text" [(ngModel)]="newFood.food_Name" name="food_Name" required /><br />
+
+    <label>Category:</label>
+    <input type="text" [(ngModel)]="newFood.category" name="category" required /><br />
+
+    <label>Price:</label>
+    <input type="number" [(ngModel)]="newFood.price" name="price" required /><br />
+
+    <label>Image:</label>
+    <input type="file" (change)="onImageSelected($event)" /><br />
+    <img *ngIf="newFood.previewUrl" [src]="newFood.previewUrl" width="100" /><br />
+
+    <button type="submit">Add Food</button>
+  </form>
+
+  <h2>Added Food Items</h2>
+  <table class="food-table">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Food Name</th>
+        <th>Category</th>
+        <th>Price</th>
+        <th>Image</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let food of foodItems; let i = index">
+        <td>{{ i + 1 }}</td>
+        <td>{{ food.food_Name }}</td>
+        <td>{{ food.category }}</td>
+        <td>₹{{ food.price }}</td>
+        <td><img [src]="food.previewUrl" width="80" /></td>
+        <td><button (click)="onRemoveFood(i)">Remove</button></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ✅ ORDERS TAB -->
+<div *ngIf="activeTab === 'orders'">
+  <h2>Order Management</h2>
+
+  <input type="text" [(ngModel)]="orderSearch" placeholder="Search by user or address" class="search-input" />
+
+  <table class="order-table">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>User</th>
+        <th>Address</th>
+        <th>Date</th>
+        <th>Status</th>
+        <th>Items</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let order of filteredOrders(); let i = index">
+        <td>{{ i + 1 }}</td>
+        <td>{{ order.userEmail }}</td>
+        <td>{{ order.address }}</td>
+        <td>{{ order.date | date: 'short' }}</td>
+        <td>
+          <select [(ngModel)]="order.status" [name]="'status' + i">
+            <option *ngFor="let s of orderStatuses" [value]="s">{{ s }}</option>
+          </select>
+        </td>
+        <td>
+          <ul>
+            <li *ngFor="let item of order.items">
+              {{ item.name }} (x{{ item.quantity }}) - ₹{{ item.price }}
+            </li>
+          </ul>
+        </td>
+        <td>
+          <button (click)="updateOrderStatus(order.id, order.status)">Update</button>
+          <button (click)="deleteOrder(order.id)">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
